@@ -1,0 +1,12 @@
+{
+  "name": "dumb-tasks-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "move-mouse": "node moveMouse.js"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.0.1"
+  }
+}
